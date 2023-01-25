@@ -6,8 +6,8 @@ edition = "2018"
 description = "Common helpers for melange-protocol"
 license = ""
 repository = "https://github.com/melange-protocol/melange-contracts"
-homepage = "https://melange.network"
-documentation = "https://docs.melange.network"
+homepage = "https://melange.finance"
+documentation = "https://docs.melange.finance"
 
 [features]
 backtraces = ["cosmwasm-std/backtraces"]
